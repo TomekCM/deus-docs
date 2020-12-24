@@ -22,3 +22,4 @@ The casino always wins, and DEUS holders essentially insure the casino, getting 
 Currently at 1,644,162 DEUS in circulation the price is at 0.0025 ETH.
 At 2,317,537 DEUS in circulation the price would be 0.005 ETH.
 The config of the market maker (bonding curve) is designed so that there is a steady, linear price progression ([visualized here.](https://simulate.deus.finance))
+To learn more information about DEUS continious token model [click here](https://lafayettetabor.medium.com/deus-continious-token-model-faq-36953ca5e561)
